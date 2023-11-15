@@ -1,2 +1,3 @@
-# Automation_System_App
-Home Automation System Smartphone Application 
+# Home Automation System Application
+
+Home Automation System Smartphone Application Template (SYS-800)
